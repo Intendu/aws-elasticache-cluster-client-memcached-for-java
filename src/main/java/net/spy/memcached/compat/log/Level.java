@@ -30,6 +30,10 @@ public enum Level {
   /**
    * Debug level.
    */
+  TRACE,
+  /**
+   * Trace level.
+   */
   DEBUG,
   /**
    * Info level.
